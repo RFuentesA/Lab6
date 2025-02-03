@@ -1,11 +1,11 @@
-from List import*
+from List import *
 
 class Queue():
     def __init__(self):
         self.__data = List(None,None)
         
     def size(self):
-        self.__data.getSize()
+        return self.__data.getSize()
     
     def isEmpty(self):
         if self.__data.getSize() == 0:
@@ -20,14 +20,16 @@ class Queue():
         self.__data.addLast(e)
     
     def dequeue(self):
-        print(self.__data.removeFirst())
-
-q = Queue()
+        return self.__data.removeFirst()
+    
+    
+"""q = Queue()
 q.enqueue(2)
 q.enqueue(4)
 q.enqueue(6)
 q.enqueue(8)
 q.enqueue(10)
+q.enqueue(12)
 
-for i in range(5):
-    q.dequeue()
+for i in range(q.size()):
+    print(q.dequeue())"""
