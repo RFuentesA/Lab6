@@ -15,6 +15,9 @@ class List():
         else:
             return False
     
+    def getSize(self):
+        return self.__size
+    
     def setSize(self, s):
         self.__size = s
     
