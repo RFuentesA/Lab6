@@ -1,0 +1,2 @@
+El Nombre del usuario es: Andres identificado con el id: 2
+El Nombre del usuario es: Catalina identificado con el id: 1

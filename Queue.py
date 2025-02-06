@@ -23,7 +23,7 @@ class Queue():
         return self.__data.removeFirst()
     
     
-"""q = Queue()
+q = Queue()
 q.enqueue(2)
 q.enqueue(4)
 q.enqueue(6)
@@ -32,4 +32,4 @@ q.enqueue(10)
 q.enqueue(12)
 
 for i in range(q.size()):
-    print(q.dequeue())"""
+    print(q.dequeue())

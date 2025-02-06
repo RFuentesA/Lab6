@@ -1,0 +1,8 @@
+El Nombre del usuario es: Catalina identificado con el id: 1
+El Nombre del usuario es: Andres identificado con el id: 2
+El Nombre del usuario es: Mariana identificado con el id: 3
+El Nombre del usuario es: Javier identificado con el id: 4
+El Nombre del usuario es: Sofia identificado con el id: 5
+El Nombre del usuario es: Mariana identificado con el id: 3
+El Nombre del usuario es: Javier identificado con el id: 4
+El Nombre del usuario es: Sofia identificado con el id: 5
